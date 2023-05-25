@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.niagaraproject-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Netmedia1/Desktop/Radovi/ZAVRSNI_2023_kovacevic_david/NiagaraGithub/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "NiagaraProject-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
